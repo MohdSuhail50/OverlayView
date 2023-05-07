@@ -1,0 +1,16 @@
+PODS:
+  - OverlayView (0.1.0)
+
+DEPENDENCIES:
+  - OverlayView (from `../`)
+
+EXTERNAL SOURCES:
+  OverlayView:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  OverlayView: 83ff71e177b1051b8d76ad48247c73dab61ef837
+
+PODFILE CHECKSUM: 0beab029627663002140cde891005f2fbb7f0639
+
+COCOAPODS: 1.12.0
